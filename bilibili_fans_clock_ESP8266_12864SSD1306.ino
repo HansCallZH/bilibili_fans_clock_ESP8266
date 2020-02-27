@@ -38,7 +38,7 @@ U8G2_SSD1306_128X64_NONAME_F_4W_HW_SPI u8g2(U8G2_R0, /* cs=*/4, /* dc=*/5, /* re
 
 //---------------修改此处""内的信息---------------------------------------------
 const char ssid[] = "Hans";                       //WiFi名
-const char pass[] = "Hans6299.";                   //WiFi密码
+const char pass[] = "your password";                   //WiFi密码
 String biliuid = "15481541";         //bilibili UID
 //-----------------------------------------------------------------------------
 
