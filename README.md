@@ -1,4 +1,6 @@
 # bilibili_fans_clock_ESP8266
+B站频道：https://space.bilibili.com/15481541
+
 一个基于ESP8266 NodeMCU的使用12864 SSD1306 OLED 显示屏的网络时钟。 
 
 使用Arduino IDE 1.8.11 开发：  https://www.arduino.cn/thread-5838-1-1.html
