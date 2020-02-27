@@ -1,5 +1,12 @@
 # bilibili_fans_clock_ESP8266
 一个基于ESP8266 NodeMCU的使用12864 SSD1306 OLED 显示屏的网络时钟。 
+
+使用Arduino IDE 1.8.11 开发：  https://www.arduino.cn/thread-5838-1-1.html
+ArduinoJson 6.x ： https://github.com/bblanchon/ArduinoJson
+Arduino Time Library: https://github.com/PaulStoffregen/Time
+ESP8266 2.6.3 :https://github.com/esp8266/Arduino/releases
+CH340G 驱动： http://www.wch.cn/download/CH341SER_EXE.html
+
 # Thanks
 感谢以下作者的作品对我的帮助：
 * https://github.com/zhshch2002/bilibili_fans_clock
