@@ -11,7 +11,7 @@ ESP8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Arduino Time Library: https://github.com/PaulStoffregen/Time
 
-U8g2 : https://github.com/olikraus/u8g2
+U8g2 : https://github.com/olikraus/U8g2_Arduino
 
 
 # Thanks
