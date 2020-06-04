@@ -36,6 +36,9 @@
 
 U8G2_SSD1306_128X64_NONAME_F_4W_HW_SPI u8g2(U8G2_R0, /* cs=*/4, /* dc=*/5, /* reset=*/3);
 
+//如果是四线IIC的屏幕请替换成下面这行代码
+//U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
+
 //---------------修改此处""内的信息---------------------------------------------
 const char ssid[] = "Hans";                       //WiFi名
 const char pass[] = "your password";                   //WiFi密码
